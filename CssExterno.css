@@ -1,0 +1,35 @@
+.fundo{
+width:500px ; 
+height:500px ;
+background-color:#f6bb6c;
+}
+.fundo2{
+width:250px ; 
+height:250px ;
+background-color: #6c48a6;
+}
+.fonte{
+    font-family: monospace;
+}
+.fundo3{
+    background-color: pink;
+}
+.corfonte{
+    color:black
+}
+.tpfonte{
+    font-style:bold;
+}
+.tmnfonte{
+    font-size: 25px;
+}
+.div2{
+    width:50% ; 
+    height:50vh ;
+    background-color:rgb(50, 50, 255);
+}
+.divf{
+    width:75vw ; 
+    height:50% ;
+    background-color:rgb(20, 200, 0);
+}
